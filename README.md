@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0242-valid-anagram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum

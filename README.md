@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0125-valid-palindrome) |

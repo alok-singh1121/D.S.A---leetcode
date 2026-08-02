@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |

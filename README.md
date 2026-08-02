@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0018-4sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0018-4sum) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |

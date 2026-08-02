@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0525-contiguous-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0904-fruit-into-baskets) |

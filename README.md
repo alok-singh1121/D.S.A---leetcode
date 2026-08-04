@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0125-valid-palindrome) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0344-reverse-string) |
@@ -192,4 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0152-maximum-product-subarray) |

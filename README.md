@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3875-construct-uniform-parity-array-i](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0202-happy-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |

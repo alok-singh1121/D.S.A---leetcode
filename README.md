@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0704-binary-search](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0739-daily-temperatures) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0704-binary-search](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table

@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0202-happy-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0206-reverse-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1652-defuse-the-bomb](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |

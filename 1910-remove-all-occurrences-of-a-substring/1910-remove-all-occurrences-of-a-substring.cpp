@@ -1,0 +1,14 @@
+class Solution {
+public:
+    string removeOccurrences(string s, string part) {
+        string res;
+        int m = part.size();
+        for (char c : s) {
+            res.push_back(c);
+            if (res.size() >= m && res.compare(res.size() - m, m, part) == 0) {
+                res.erase(res.size() - m);
+            }
+        }
+        return res;
+    }
+};

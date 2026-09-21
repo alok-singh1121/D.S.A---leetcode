@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
 | ------- |

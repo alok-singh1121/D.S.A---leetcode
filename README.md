@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0206-reverse-linked-list) |
 ## Newton's Method

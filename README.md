@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0056-merge-intervals) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0088-merge-sorted-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0739-daily-temperatures) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0152-maximum-product-subarray) |

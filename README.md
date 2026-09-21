@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1652-defuse-the-bomb](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2965-find-missing-and-repeated-values](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [2965-find-missing-and-repeated-values](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0202-happy-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |

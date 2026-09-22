@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1652-defuse-the-bomb](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |

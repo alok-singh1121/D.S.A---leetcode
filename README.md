@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming

@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -362,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

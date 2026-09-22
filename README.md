@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0344-reverse-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0739-daily-temperatures) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0234-palindrome-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
